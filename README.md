@@ -14,7 +14,7 @@ This repository contains a machine learning project aimed at predicting customer
 The dataset contains 9,927 records with the following features:
 
 * **Credit Score**
-* **Geography** (France, Spain, Germany)
+* **Geography** 
 * **Gender**
 * **Age**
 * **Tenure** (years as customer)
